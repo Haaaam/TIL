@@ -1,0 +1,9 @@
+Pybo에 Chatbot추가
+
+1. Dialogflow에 웹데모 주소확인
+2. 네비게이션 메뉴에 Chatbot 메뉴 추가
+3. Chatbot view 새성
+4. Chatbot html 생성
+5. Git push
+6. Git에 commit
+
