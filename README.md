@@ -14,3 +14,8 @@
 * Text Analysis
 
 * 추천시스템
+
+## Algorithm
+
+
+## DataStructure
