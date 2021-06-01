@@ -1,0 +1,21 @@
+flowchart
+
+- flowchart
+- message box
+- input dialog
+- flow decision
+1. 원하는 값이 입력될 때까지 반복하여 입력되도록 구성 한다.
+
+
+Sequence
+- 원하는 것을 순서대로 출력?
+
+Assign
+Message Box
+
+- Assign된 값을 MessageBos로 출력한다
+- Input Dialog를 입력받고 ~
+
+구구단
+- input: 출력을 원하는 단(숫자)를 입력
+- output: 반복문(while)을 사용하여 구구단을 계산하고 출력
