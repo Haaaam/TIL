@@ -1,7 +1,7 @@
 # Hyem's Today I Learn(TIL)
 
 ## Python
-* ML(Machine Learning)
+* <a href="https://github.com/Haaaam/TIL/tree/master/ML_DL"> ML/DL </a>
 
 * Crawling
 
