@@ -1,4 +1,4 @@
-# Hyem's Today I Learn(TIL)
+# Hyem's Today I Learned(TIL)
 
 ## Python
 * <a href="https://github.com/Haaaam/TIL/tree/master/ML_DL"> ML/DL </a>
