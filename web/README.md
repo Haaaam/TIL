@@ -1,15 +1,15 @@
-#### HTML / CSS/ JavaScript
-HTML(Hyper Text Markup Language)
+## HTML / CSS/ JavaScript
+#### HTML(Hyper Text Markup Language)
 - HTML은 웹페이지의 구조를 정의하는 마크업 언어
 - 우리가 보는 웹페이지의 골격을 만드는 도구
 - 요소(element)와 속성(attribute)와 조합으로 이루어져 있으며, 대부분의 요소는 시작 태그와 종료 태그로 구성
 - h1, h2, p, img, input 등의 다양한 '태그'를 활용하여 골격을 디자인할 수 있음
 
-CSS(Cascading Style Sheets)
+#### CSS(Cascading Style Sheets)
 - CSS는 웹 페이지의 디자인과 레이아웃을 제어하는 스타일시트 언어
 - HTML을 활용하여 잡은 골격에 스타일링을 해주는 도구
 - CSS만 단독으로 존재하는 건 의미가 없음
 
-JavaScript
+#### JavaScript
 - 웹페이지에 동작 기능을 추가하는 프로그래밍 언어(변수, 조건, 반복 등을 활용한 연산/계산 기능)
 - 사용자와 상호작용, 웹페이지 내용을 동적으로 변경, 웹 요소를 조작하는 등 다양한 기능을 수행할 수 있음
